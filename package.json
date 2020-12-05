@@ -1,0 +1,13 @@
+{
+  "name": "Usage",
+  "version": "3.0.0",
+  "description": "Live demo",
+  "keywords": [],
+  "homepage": "https://https://rvillanuevarvc.github.io/Todos/",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
