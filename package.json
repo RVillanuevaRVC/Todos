@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "description": "Live demo",
   "keywords": [],
-  "homepage": "https://rvillanuevarvc.github.io/Todos/",
+  "homepage": "https://rvillanuevarvc.github.io/Todos",
   "main": "index.js",
   "dependencies": {
     "@material-ui/core": "latest",
